@@ -270,7 +270,7 @@
 //   )
 // }
 
-"use client"
+
 
 import { useState } from "react"
 import { Search } from "lucide-react"
@@ -278,7 +278,7 @@ import { Link } from "react-router-dom"
 import Menu from "../image/Menu.svg"
 import logo from "../image/logo.png"
 import Cart from "../image/Cart.svg"
-import Wishlist from "../image/wishlist.svg"
+import Wishlist from "../image/Wishlist.svg"
 import User from "../image/User.svg"
 
 export default function Navbar() {
